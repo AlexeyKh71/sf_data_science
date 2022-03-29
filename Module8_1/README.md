@@ -1,9 +1,9 @@
 # Проект Финальное задание Модуля 8. Угадай число за минимальное количество раз
 
 ## Оглавление
-[1. УСЛОВИЯ ЗАДАНИЯ](https://github.com/AlexeyKh71/sf_data_science/tree/main/Module8_1/Module8_1_README.md#УСЛОВИЯ-ЗАДАНИЯ)
-[2. МЕТРИКА КАЧЕСТВА](https://github.com/AlexeyKh71/sf_data_science/tree/main/Module8_1/Module8_1_README.md.md#МЕТРИКА-КАЧЕСТВА)
-[3. ЧТО ПРАКТИКУЕМ](https://github.com/AlexeyKh71/sf_data_science/tree/main/Module8_1/Module8_1_README.md.md#ЧТО-ПРАКТИКУЕМ)
+[1. УСЛОВИЯ ЗАДАНИЯ](https://github.com/AlexeyKh71/sf_data_science/tree/main/Module8_1/README.md#УСЛОВИЯ-ЗАДАНИЯ)
+[2. МЕТРИКА КАЧЕСТВА](https://github.com/AlexeyKh71/sf_data_science/tree/main/Module8_1/README.md#МЕТРИКА-КАЧЕСТВА)
+[3. ЧТО ПРАКТИКУЕМ](https://github.com/AlexeyKh71/sf_data_science/tree/main/Module8_1/README.md#ЧТО-ПРАКТИКУЕМ)
 
 ### УСЛОВИЯ ЗАДАНИЯ
 
