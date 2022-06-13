@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Project 1/data/dst-3.0_16_1_hh_database.csv
+Project 1/data/ExchangeRates.csv
+PY_14_Очистка данных/data/diabetes_data.csv
+PY_14_Очистка данных/data/sber_data.csv
+PY_15_Принципы ООП в Python и отладка кода/input.txt.txt
+PY_15_Принципы ООП в Python и отладка кода/numbers.txt
+PY_15_Принципы ООП в Python и отладка кода/output.txt.txt

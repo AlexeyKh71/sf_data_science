@@ -153,8 +153,9 @@ def task_12_75():
     merged = items_df.merge(purchase_df, how='inner', on='item_id')
     income = (merged['price'] * merged['stock_count']).sum()
     
+    
 
 
 
 melb_data = pd.read_csv('C:\Alexey\DS30\IDE\PY_12_Продвинутые методы работы с данными в Pandas\data\melb_data_fe.csv', sep=',')
-task_12_74()
+task_12_75()
