@@ -151,3 +151,8 @@ PYTHON-16. Как выгружать данные из файлов разных
 PYTHON-16. Как выгружать данные из файлов разных форматов/data/recipes.csv
 PYTHON-16. Как выгружать данные из файлов разных форматов/data/recipes.json
 PYTHON-16. Как выгружать данные из файлов разных форматов/data/students_performance.zip
+PYTHON - ATS/data/solarpower.csv
+PYTHON - ALEXEY/data/Consumption_original.csv
+PYTHON - ALEXEY/data/Consumption_new.csv
+EDA_01/data/wine.csv
+EDA_01/wine_cleared.csv
